@@ -1,0 +1,29 @@
+  # Competitive programming : A warm-up
+  
+  After you know about programming languages, the next part is how to solve the problem. To solve a problem, 
+  just follow these simple steps :
+  
+  1. Read the Question: Not difficult at all. The problems generally contain long stories about some people and what not.
+     You don’t need these to solve the problem. Read the input/output formats and constraints very carefully.
+     If the output format doesn’t match with the required output format, it would give a Wrong Answer. 
+     Constraints are really very important part of the problem as it sometimes hints to the expected time complexity of the solution.
+     
+  2. Understand the Problem: Understand what is asked and what is given in problem. 
+     Verify your understanding with the sample test cases and the explanation given.
+     
+  3. Make an Algorithm: This is the most important part of solving. Use your problem solving abilities to think of an 
+     efficient algorithm for the problem satisfying the required time constraint. If the problem requires a standard algorithm 
+     that you know, you’re good to move on to the next step. Generally, this wouldn’t be the case in a contest.
+     First try to think of a naive approach and see if it fits the time constraint. If not, see for some optimisation.
+     If it still does not work, try to reduce the problem into simpler solvable problems. More and more practice will help you figure
+     out how to solve more complex problems.
+     
+  4. Code(or write) the Solution: Before writing the solution, think of the data structures required, 
+     what data needs to be arranged in maps/arrays/vectors etc. Choosing right data structures according to the need of the
+     solution helps in solving the problem much easily. If you think carefully before coding you wouldn’t get confused while
+     writing the code. As you practice more and more, you’ll get better at thinking faster.
+  
+  //If you get stuck on a problem during a contest, it’s best to try your best before searching on the Internet or
+  asking someone for the solution. Don’t give up if you get stuck. At times, competitive programming can be quite demotivating;
+  but only persistence will help you learn and be a better coder. A lot of effort goes into improving your speed and accuracy 
+  in competitive programming.   
