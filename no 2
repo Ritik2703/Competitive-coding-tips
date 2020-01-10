@@ -1,0 +1,55 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+                    RADHA KRISHNA                       
+
+     
+    *            *        * *  * * *        *         *  *  *   *   *              *    *              *              *
+    *           *         *         *       *       *               *              *    * *            *             *  *
+    *         *           *        *        *     *                 *              *    *  *           *            *    * 
+    *       *             *      *          *   *                   *              *    *   *          *           *      *
+    *      *              *     *           *     *                 *              *    *    *         *          *        *
+    *    *                *    *            *        *  *   *       *              *    *      *       *         *          *
+    * *                   *  *              *                  *    * * * * * * * **    *       *      *        *  * * * * * *
+    *    *                *  *              *                  *    *              *    *        *     *       *              *
+    *      *              *    *            *                *      *              *    *         *    *      *                *
+    *        *            *     *           *              *        *              *    *          *   *     *                  *
+    *          *          *      *          *   *        *          *              *    *           *  *    *                    *
+    *            *        *       *         *     *    *            *              *    *            * *   *                      *
+    *             *       *        *        *       *               *              *    *              *  *                        *
+  
+  
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+******    Knowing the complexity in competitive programming
+
+Prerequisite: Time Complexity Analysis
+
+Generally, while doing competitive programming problems on various sites, the most difficult task faced is writing the code 
+under desired complexity otherwise the program will get a TLE ( Time Limit Exceeded ). A naive solution is almost never accepted.
+So how to know, what complexity is acceptable?
+
+The answer to this question is directly related to the number of operations that are allowed to perform within a second. 
+Most of the sites these days allow 108 operations per second, only a few sites still allow 107 operations. 
+After figuring out the number of operations that can be performed, search for the right complexity by looking at the
+constraints given in the problem
+
+time complexity to be used for maximum value of n for each case:
+   if n = 10 ^ 8 , it is for o(n) or o(logn) time complexity
+   if n = 10 ^ 4 , it is for o(n^2) time complexity
+   if n = 500 , it is for o(n ^ 3) time complexity
+   if n = 90 , it is for o(n ^ 4) time complexity
+   if n = 20 , it is for o(2 ^ n) time complexity
+   if n = 11 , it is for o(n)! time complexity
+  
+   
+   
+complexity	maximum N
+(N)	        =        100 000 000
+(N log N)   =      	40 000 000
+(N2)       =	      10 000
+(N3)	      =       500
+(N4)	     =        90
+(2N)	     =          20
+(N!)	     =         11
